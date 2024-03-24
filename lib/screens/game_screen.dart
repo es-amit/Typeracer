@@ -1,7 +1,5 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 import 'package:typeracer_clon/providers/client_state_provider.dart';
 import 'package:typeracer_clon/providers/game_state_provider.dart';

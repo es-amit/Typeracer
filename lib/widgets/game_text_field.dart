@@ -1,3 +1,5 @@
+// ignore_for_file: avoid_init_to_null
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:typeracer_clon/providers/game_state_provider.dart';

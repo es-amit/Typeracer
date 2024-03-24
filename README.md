@@ -1,16 +1,43 @@
-# typeracer_clon
+# Typeracer
+<p align="center">
+  <a href="https://firebase.google.com/docs/flutter">
+    <img width="" src=".github/githubbanner.png" alt="Flutter + NodeJS + Socket.io + MongoDB"><br/>
+  </a>
+  <h1 align="center">Flutter + Express + Socket.io + MongoDB</h1>
+</p>
 
-A new Flutter project.
+A completely Responsive Typeracer App- Works only on Android & Web! 
 
-## Getting Started
+## Features
+- Responsive UI
+- Real Time
+- Create Rooms
+- Join Rooms
+- Calculate WPM
+- Display LeaderBoards
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
+run the following commands to run your app:
+```bash
+  flutter pub get
+  flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For installing the libraries
+```bash
+  npm install
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  npm run dev
+```
+
+
+## Tech Used
+**Server**: MongoDB, Socket.io, ExpressJS, NodeJS, JavaScript
+
+**Client**: Flutter, Provider
+    
+## Feedback
+- If you have any feedback, please reach out to me at amit.singh.9312687983@gmail.com

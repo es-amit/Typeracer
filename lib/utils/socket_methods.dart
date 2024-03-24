@@ -1,3 +1,5 @@
+// ignore_for_file: unused_local_variable
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:typeracer_clon/providers/client_state_provider.dart';
